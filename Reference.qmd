@@ -1,0 +1,7 @@
+---
+title: "Reference"
+bibliography: reference.bib
+link-citations: true
+---
+
+@martinschweinberger2026getting
